@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/jooby-project/kotlin-gradle-starter.svg?branch=master)](https://travis-ci.org/jooby-project/kotlin-gradle-starter)
 # kotlin-gradle-starter
 
 Starter kit for [Kotlin](http://kotlinlang.org/), using [gradle](https://gradle.org/) and [spek](http://spekframework.org/) for testing
@@ -24,7 +25,7 @@ fun main(args: Array<String>) {
 
 ## run
 
-    ./gradlew run
+    ./gradlew joobyRun
 
 ## test
     ./gradlew test
